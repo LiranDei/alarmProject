@@ -1,0 +1,12 @@
+../Core/Src/alarmsManager.c:44:6:turnOffAlarm	8	static
+../Core/Src/alarmsManager.c:53:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/alarmsManager.c:65:6:alarmAppMain	8	static
+../Core/Src/alarmsManager.c:82:6:readFromFlash	16	static
+../Core/Src/alarmsManager.c:93:6:writeToFlash	16	static
+../Core/Src/alarmsManager.c:113:6:addAlarm	16	static
+../Core/Src/alarmsManager.c:126:6:deleteAlarm	32	static
+../Core/Src/alarmsManager.c:145:6:clearList	16	static
+../Core/Src/alarmsManager.c:158:6:printAlarms	40	static
+../Core/Src/alarmsManager.c:175:5:nameAlreadyExists	24	static
+../Core/Src/alarmsManager.c:188:12:isTimeToAlarm	16	static
+../Core/Src/alarmsManager.c:200:6:alarmTask	32	static

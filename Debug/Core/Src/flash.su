@@ -1,0 +1,2 @@
+../Core/Src/flash.c:13:19:erasePage	48	static
+../Core/Src/flash.c:36:19:writeToPage	40	static

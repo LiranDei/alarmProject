@@ -1,0 +1,5 @@
+../Core/Src/commTask.c:25:6:registerCommand	24	static
+../Core/Src/commTask.c:37:6:printCommands	16	static
+../Core/Src/commTask.c:46:6:commTask	16	static
+../Core/Src/commTask.c:58:5:commTaskReady	24	static
+../Core/Src/commTask.c:88:6:handleCommand	32	static

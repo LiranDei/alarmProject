@@ -1,0 +1,11 @@
+../Core/Src/rtc.c:35:6:rtcInit	24	static
+../Core/Src/rtc.c:41:6:rtcWrite	40	static
+../Core/Src/rtc.c:46:6:rtcRead	40	static
+../Core/Src/rtc.c:51:6:rtcStart	40	static
+../Core/Src/rtc.c:59:6:rtcStop	40	static
+../Core/Src/rtc.c:67:5:rtcIsRunning	40	static
+../Core/Src/rtc.c:74:12:bcdToInt	16	static
+../Core/Src/rtc.c:79:16:intToBcd	24	static
+../Core/Src/rtc.c:88:6:rtcGetTime	40	static
+../Core/Src/rtc.c:104:10:rtcGetSeconds	32	static
+../Core/Src/rtc.c:126:19:rtcSetTime	40	static

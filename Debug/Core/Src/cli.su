@@ -1,0 +1,10 @@
+../Core/Src/cli.c:21:12:setDateTime	32	static
+../Core/Src/cli.c:90:13:initDateTime	40	static
+../Core/Src/cli.c:122:13:showDateCmd	56	static
+../Core/Src/cli.c:136:12:insertAlarmToArr	32	static
+../Core/Src/cli.c:206:13:addAlarmCmd	64	static
+../Core/Src/cli.c:228:13:listCmd	16	static
+../Core/Src/cli.c:235:13:delCmd	24	static
+../Core/Src/cli.c:250:13:stopCmd	16	static
+../Core/Src/cli.c:257:13:clearAllCmd	16	static
+../Core/Src/cli.c:265:6:cliInit	8	static
